@@ -1,0 +1,59 @@
+h1
+{
+  text-align: center;
+  background-color: lightblue;
+  color: #dc3545;
+  font-weight: bold;
+  width=50%;
+  height=50%;
+}
+div
+{
+  font-family: Arial, sans-serif;
+  border: 5px solid #28a745;
+  width=50%;
+  height=50%;
+}
+.name
+{
+  border: 5px;
+  background-color: #fd7e14;
+  width=50%;
+  height=50%;
+}
+table
+{
+  table-layout: center;
+  border: 5px solid #28a745;
+  border-collapse: collapse;
+  background-color: #ffc107;
+  height: 50%;
+  width: 50%;
+  margin left: 50%;
+  font-family: Arial, sans-serif;
+}
+th
+{
+  text-align: center;
+  border: 5px solid #dc3545;
+  padding: 5px;
+  background-color: #e83e8c;
+  width=50%;
+  height=25%;
+}
+td
+{
+  text-align: center;
+  border: 3px solid #6f42c1;
+  padding: 3px;
+  background-color: magenta;
+  width=50%;
+  height=50%;
+}
+h4
+{
+  background-color: #ffc107;
+  font-weight: bold;
+  width=50%;
+  height=50%;
+}
