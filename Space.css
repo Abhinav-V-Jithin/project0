@@ -1,0 +1,23 @@
+#space
+{
+  background-color: #28a745;
+  border: 5px;
+  text-align: center;
+  width=50%;
+  height=50%;
+}
+h4
+{
+  background-color: #ffc107;
+  font-weight: bold;
+  width=50%;
+  height=50%;
+}
+h1
+{
+  text-align: center;
+  font-weight: bold;
+  background-color: #6f42c1;
+  width=50%;
+  height=50%;
+}
