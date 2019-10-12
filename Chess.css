@@ -1,0 +1,15 @@
+h1
+{
+  text-align: center;
+  background-color: violet;
+  width=50%;
+  height=50%;
+}
+#Chess
+{
+  background-color: yellow;
+  border: 5px dotted red;
+  font-size: 28px;
+  width=50%;
+  height=50%;
+}
